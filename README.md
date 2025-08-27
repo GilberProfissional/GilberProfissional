@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Gilbert Morais
+# 🖥⌨️ Olá! Eu sou o Gilbert Morais
 
 [![E-mail](https://img.shields.io/badge/%20E--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilbertprofissional@gmail.com)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gilbert.txt_)
